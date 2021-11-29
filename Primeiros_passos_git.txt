@@ -1,4 +1,5 @@
 cria repositório
- git init
+    git init
 
-
+Checa status
+    git status
