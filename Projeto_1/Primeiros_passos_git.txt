@@ -1,0 +1,17 @@
+cria repositório
+    git init
+
+Checa status
+    git status
+
+Adiciona os novos arquivos
+    git add
+
+Commita novos arquivos (Commitar e salvar alteraçoes com um comentário)
+    git commit <nome do arquivo> -m "mensagem desejada"            #-m de mensagem // -a de all
+
+Sobe arquivos para github (Gerenciador das versoes do projeto)
+    git push
+    
+Puxa configs feitas diretamente pelo GH ou outro DEV
+    git pull
